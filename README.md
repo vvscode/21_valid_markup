@@ -1,6 +1,8 @@
 # Site of Real Estate Agency
 
-[TODO. There will be project description]
+Promo site fro real estate agency.
+
+You can preview the website at https://vvscode.github.io/21_valid_markup/index.html
 
 # Project Goals
 
